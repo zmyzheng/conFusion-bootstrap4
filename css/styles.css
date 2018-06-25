@@ -1,3 +1,5 @@
+
+/* 调整字体和间距 */
 .row-header{
     margin:0px auto;
     padding:0px;
@@ -28,3 +30,15 @@ address{
     margin:0px;
     color:#0f0f0f;
 }
+
+/* 调整导航栏颜色 */
+.navbar-dark {
+    background-color: #512DA8;
+}
+
+/* 避免导航栏和页面重叠 */
+body{
+    padding:50px 0px 0px 0px;
+    z-index:0;
+}
+
