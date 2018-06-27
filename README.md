@@ -17,3 +17,9 @@ git commit -m "Initial Setup"
 
 git push -u origin master
 
+
+
+Bootstrap's JavaScript components have two parts, the CSS classes, and the JavaScript support. 
+
+Using the JS components without writing any JavaScript Code. This is possible using the data-* attributes that Bootstrap provides for us to control the components. 
+
