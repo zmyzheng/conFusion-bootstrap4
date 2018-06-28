@@ -10,9 +10,7 @@
   },
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "lite-server": "^2.3.0"
-  },
+  "devDependencies": {},
   "dependencies": {
     "bootstrap": "^4.1.1",
     "bootstrap-social": "^5.1.1",
